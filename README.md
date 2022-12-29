@@ -18,13 +18,21 @@ to make frequent changes to the code without the risk of an integration issue an
 References
 
 Amazon Web Services (n.d.). Continuous delivery and continuous integration. https://docs.aws.amazon.com/codepipeline/latest/userguide/concepts-continuous-delivery-integration.html
+
 Concourse (n.d.). https://concourse-ci.org/
+
 Gitlab (n.d.). CI/CD Concepts. https://docs.gitlab.com/ee/ci/introduction/#continuous-delivery
+
 GoCD (n.d.). https://www.gocd.org/
+
 InfoWorld. (n.d.). What is CI/CD? Continuous integration and continuous delivery explained. https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html
+
 Jenkins (n.d.). Creating your first Pipeline. https://www.jenkins.io/doc/pipeline/tour/hello-world/#:~:text=Jenkins%20Pipeline%20(or%20simply%20%22Pipeline,to%20your%20users%20and%20customers.
+
 Redhat (n.d.). What is CI/CD? https://www.redhat.com/en/topics/devops/what-is-ci-cd#ci/cd-tools
+
 Spinnaker (n.d.). https://spinnaker.io/
+
 Screwdriver (n.d.). https://screwdriver.cd/
 
 
